@@ -1,5 +1,5 @@
 # Assignment 3
-
+### Shaun Bartschi
 1. Github Account has been created.  My username is bart3251.
 2. Code in C++ for finding a fixed point iteration using hardcoded functions and params.
 
